@@ -1,6 +1,6 @@
 # Flappy-Felpudo
 
-Cutscene criada como segundo projeto da disciplina "Programação de Jogos 2026.2" - Animação de Partículas (Felpudo e Fofucha)
+Jogo criada como segundo projeto da disciplina "Programação de Jogos 2026.2" - Animação de Partículas (Felpudo e Fofucha)
 
 Orientador: Murilo Boratto
 
