@@ -1,10 +1,10 @@
 # Flappy-Felpudo
 
-Jogo criado como segundo projeto da disciplina "Programação de Jogos 2026.2" - Animação de Partículas (Felpudo e Fofucha)
+Jogo criado como terceiro projeto da disciplina "Programação de Jogos 2026.2" - Flappy Felpudo
 
 Orientador: Murilo Boratto
 
-Discentes: João Ferreira, Gabriel Nascimento
+Discentes: João Ferreira, Rian Gabriel Nascimento
 
 Jogo produzido através da Unity, publicado no Play Unity
 
